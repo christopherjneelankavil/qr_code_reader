@@ -1,16 +1,18 @@
 # qr_code_reader
 
-A new Flutter project.
+qr_code_reader is a cross-platform application built using Flutter. It allows users to scan and read QR codes efficiently.
 
-## Getting Started
+To get started with the project, follow these steps:
 
-This project is a starting point for a Flutter application.
+Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+git clone https://github.com/christopherjneelankavil/qr_code_reader.git
+cd qr_code_reader
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Usage** 
+After installation, you can use the app to scan QR codes by following these steps:
+
+Open the app.
+Point your device's camera at the QR code.
+The app will automatically detect and read the QR code, displaying the content.
